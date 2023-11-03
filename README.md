@@ -1,5 +1,10 @@
-# Multiple-Disease-Predicition 
+# Multiple Disease Predicition 
+
 https://project-v223.onrender.com/
+
+Multiple disease prediction system using machine learning is implemented. Users can enter
+their details and then check if they have that disease or not. 				
+
 ![Screenshot 2023-04-20 194949](https://user-images.githubusercontent.com/60603263/234511620-490a3e16-510d-419a-9fe1-e7d5a33b86a5.png)
 ![Screenshot 2023-04-20 195118](https://user-images.githubusercontent.com/60603263/234511627-08bb11a1-ea20-4e70-9e51-ed9ced27600d.png)
 
