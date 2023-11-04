@@ -1,4 +1,4 @@
-# Multiple Disease Predicition 
+# Multiple Disease Prediction 
 
 
 https://project-v223.onrender.com/
